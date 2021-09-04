@@ -6,17 +6,8 @@
         {
           "movie": "Soorarai Pottru",
           "isNew": false,
-          "isLocked": false
-        },
-        {
-          "movie": "Soorarai Pottru",
-          "isNew": false,
-          "isLocked": false
-        },
-        {
-          "movie": "Soorarai Pottru",
-          "isNew": false,
-          "isLocked": false
+          "isLocked": false,
+          "code": "ALN t;POS 9.0;SZE 39.0;ROT 0;COL 65FF68"
         }
       ]
     }
