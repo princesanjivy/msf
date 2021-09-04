@@ -17,7 +17,7 @@
         {
           "movie": "Rajini Murugan",
           "isNew": true,
-          "isLocked": false,
+          "isLocked": true,
           "code": "b;23.0;59.0;0;EE4D56-0000FF;3D;A"
         }
       ]
