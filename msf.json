@@ -30,6 +30,12 @@
           "isNew": false,
           "isLocked": false,
           "code": "t;49.0;55.0;0;FFFFFF;2D;a"
+        },
+        {
+          "movie": "Psycho",
+          "isNew": false,
+          "isLocked": true,
+          "code": "b;134.0;56.0;0;FC2101-BC1E14;3D;A"
         }
       ]
     }
