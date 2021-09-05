@@ -26,6 +26,12 @@
       "category": "Kollywood",
       "items": [
         {
+          "movie": "Sandakozhi",
+          "isNew": false,
+          "isLocked": true,
+          "code": "b;65.0;62.0;0;FFFFFF;2D;a"
+        },
+        {
           "movie": "Gypsy",
           "isNew": false,
           "isLocked": false,
