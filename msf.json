@@ -15,8 +15,14 @@
       "category": "Siva",
       "items": [
         {
+          "movie": "Remo",
+          "isNew": false,
+          "isLocked": true,
+          "code": "t;103.0;67.0;0;F0285A-007A99;3D;a"
+        },
+        {
           "movie": "Rajini Murugan",
-          "isNew": true,
+          "isNew": false,
           "isLocked": true,
           "code": "b;23.0;59.0;0;EE4D56-0000FF;3D;A"
         }
