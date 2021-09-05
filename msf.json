@@ -14,6 +14,12 @@
     {
       "category": "Siva",
       "items": [
+         {
+          "movie": "Kanaa",
+          "isNew": true,
+          "isLocked": false,
+          "code": "b;89.0;60.0;0;F0F0F0-696A69;3D;A"
+        },
         {
           "movie": "Remo",
           "isNew": false,
@@ -31,6 +37,12 @@
     {
       "category": "Kollywood",
       "items": [
+        {
+          "movie": "Thimiru Pudichavan",
+          "isNew": false,
+          "isLocked": false,
+          "code": "t;11.0;72.0;0;3CB4AA-969696;3D;a"
+        },
         {
           "movie": "Sandakozhi",
           "isNew": false,
