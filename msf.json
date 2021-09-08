@@ -66,6 +66,12 @@
       "category": "Kollywood",
       "items": [
         {
+          "movie": "Sarpatta Parambarai",
+          "isNew": true,
+          "isLocked": true,
+          "code": "b;38.0;38.0;0;DC4332;2D;a"
+        },
+        {
           "movie": "Thimiru Pudichavan",
           "isNew": false,
           "isLocked": false,
