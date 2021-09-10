@@ -66,6 +66,12 @@
       "category": "Kollywood",
       "items": [
         {
+          "movie": "Dikkiloona",
+          "isNew": true,
+          "isLocked": true,
+          "code": "b;92.0;33.0;0;FFFFFF;2D;A"
+        },
+        {
           "movie": "Sarpatta Parambarai",
           "isNew": true,
           "isLocked": true,
