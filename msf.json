@@ -66,6 +66,12 @@
       "category": "Kollywood",
       "items": [
         {
+          "movie": "Maanaadu",
+          "isNew": true,
+          "isLocked": true,
+          "code": "t;-2.0;80.0;0;262530;2D;a"
+        },
+        {
           "movie": "Dikkiloona",
           "isNew": true,
           "isLocked": true,
