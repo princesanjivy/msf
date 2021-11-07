@@ -5,7 +5,7 @@
       "items": [
          {
           "movie": "Kanaa",
-          "isNew": true,
+          "isNew": false,
           "isLocked": false,
           "code": "b;89.0;60.0;0;F0F0F0-696A69;3D;A"
         },
@@ -66,6 +66,12 @@
       "category": "Kollywood",
       "items": [
         {
+          "movie": "Annaatthe",
+          "isNew": true,
+          "isLocked": true,
+          "code": "b;50.0;81.0;0;BB3829-EEB33D;3D;a"
+        },
+        {
           "movie": "Maanaadu",
           "isNew": true,
           "isLocked": true,
@@ -73,8 +79,8 @@
         },
         {
           "movie": "Dikkiloona",
-          "isNew": true,
-          "isLocked": true,
+          "isNew": false,
+          "isLocked": false,
           "code": "b;92.0;33.0;0;FFFFFF;2D;A"
         },
         {
