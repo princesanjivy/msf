@@ -59,7 +59,7 @@
         {
           "movie": "Doctor",
           "isNew": true,
-          "isLocked": false,
+          "isLocked": true,
           "code": "t;77.0;80.0;0;F3F3F3;2D;a"
         }, 
         {
