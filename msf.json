@@ -56,7 +56,13 @@
     {
       "category": "Siva",
       "items": [
-         {
+        {
+          "movie": "Doctor",
+          "isNew": true,
+          "isLocked": false,
+          "code": "t;77.0;80.0;0;F3F3F3;2D;a"
+        }, 
+        {
           "movie": "Kanaa",
           "isNew": false,
           "isLocked": false,
