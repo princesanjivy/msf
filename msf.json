@@ -23,7 +23,7 @@
         },
         {
           "movie": "Sarpatta Parambarai",
-          "isNew": true,
+          "isNew": false,
           "isLocked": true,
           "code": "b;38.0;38.0;0;DC4332;2D;a"
         },
@@ -104,7 +104,7 @@
         },
         {
           "movie": "Bigil",
-          "isNew": true,
+          "isNew": false,
           "isLocked": true,
           "code": "b;51.0;65.0;0;EF4A37;2D;A"
         }
@@ -113,6 +113,12 @@
     {
       "category": "Suriya",
       "items": [
+        {
+          "movie": "Etharkum Thuninthavan",
+          "isNew": true,
+          "isLocked": true,
+          "code": "b;96.0;34.0;0;D70000;2D;A"
+        },
         {
           "movie": "Soorarai Pottru",
           "isNew": true,
