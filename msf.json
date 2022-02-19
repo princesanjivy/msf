@@ -11,7 +11,7 @@
         },
         {
           "movie": "Maanaadu",
-          "isNew": true,
+          "isNew": false,
           "isLocked": true,
           "code": "t;-2.0;80.0;0;262530;2D;a"
         },
@@ -57,9 +57,15 @@
       "category": "Siva",
       "items": [
         {
-          "movie": "Doctor",
+          "movie": "Don",
           "isNew": true,
           "isLocked": true,
+          "code": "t;30.0;42.0;0;E03E0D-FFFFFF;3D;A"
+        },
+        {
+          "movie": "Doctor",
+          "isNew": false,
+          "isLocked": false,
           "code": "t;77.0;80.0;0;F3F3F3;2D;a"
         }, 
         {
