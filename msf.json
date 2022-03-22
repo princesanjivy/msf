@@ -1,6 +1,29 @@
 {
   "msf": [
      {
+      "category": "Vijay",
+      "items": [
+        {
+          "movie": "Beast",
+          "isNew": true,
+          "isLocked": true,
+          "code": "b;210.0;62.0;0;3A221E;2D;A"
+        },
+        {
+          "movie": "Master",
+          "isNew": false,
+          "isLocked": true,
+          "code": "b;30.0;40.0;0;E6BA97;2D;A"
+        },
+        {
+          "movie": "Bigil",
+          "isNew": false,
+          "isLocked": true,
+          "code": "b;51.0;65.0;0;EF4A37;2D;A"
+        }
+      ]
+     },
+     {
       "category": "Kollywood",
       "items": [
         {
@@ -96,23 +119,6 @@
           "isNew": false,
           "isLocked": false,
           "code": "b;46.0;57.0;0;EF4A37;2D;a"
-        }
-      ]
-    },
-    {
-      "category": "Vijay",
-      "items": [
-        {
-          "movie": "Master",
-          "isNew": true,
-          "isLocked": true,
-          "code": "b;30.0;40.0;0;E6BA97;2D;A"
-        },
-        {
-          "movie": "Bigil",
-          "isNew": false,
-          "isLocked": true,
-          "code": "b;51.0;65.0;0;EF4A37;2D;A"
         }
       ]
     },
