@@ -3,16 +3,21 @@
      {
       "category": "Vijay",
       "items": [
+        { "movie": "Varisu",
+         "isNew": true,
+         "isLocked": true,
+         "code": "t;-50.0;63.0;0;666666-FFFFFF;3D;a"
+        },
         {
           "movie": "Beast",
-          "isNew": true,
+          "isNew": false,
           "isLocked": true,
           "code": "b;210.0;62.0;0;3A221E;2D;A"
         },
         {
           "movie": "Master",
           "isNew": false,
-          "isLocked": true,
+          "isLocked": false,
           "code": "b;30.0;40.0;0;E6BA97;2D;A"
         },
         {
