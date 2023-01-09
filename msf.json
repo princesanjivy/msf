@@ -119,6 +119,7 @@
     {
       "category": "Ajith",
       "items": [
+{ "movie": "Thunivu", "isNew": true, "isLocked": true, "code": "t;53.0;38.0;0;5A281E;2D;a"},
         {
           "movie": "Vivegam",
           "isNew": false,
