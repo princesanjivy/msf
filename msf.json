@@ -6,7 +6,7 @@
         { "movie": "Goat",
          "isNew": true,
          "isLocked": true,
-         "code": "t;-50.0;63.0;0;FFFFFF-444444;3D;A"
+         "code": "t;250.0;63.0;0;FFFFFF-444444;3D;A"
         },
         { "movie": "Varisu",
          "isNew": false,
