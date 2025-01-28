@@ -3,9 +3,14 @@
      {
       "category": "Vijay",
       "items": [
-        { "movie": "Varisu",
+        { "movie": "Goat",
          "isNew": true,
          "isLocked": true,
+         "code": "t;-50.0;63.0;0;FFFFFF-444444;3D;A"
+        },
+        { "movie": "Varisu",
+         "isNew": false,
+         "isLocked": false,
          "code": "t;-50.0;63.0;0;666666-FFFFFF;3D;a"
         },
         {
